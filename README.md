@@ -1,2 +1,10 @@
 # translator-4langs
-this translator helps your for translating eny text in four languages 
+
+Oddiy **Python dasturi** bo‘lib, foydalanuvchi kiritgan matnni avtomatik ravishda istalgan tilga tarjima qiladi.  
+Loyiha **Google Translator API (deep-translator kutubxonasi)** asosida ishlaydi. 
+
+Imkoniyatlari:
+- Matnni istalgan tildan boshqa tilga tarjima qiladi  
+- Tilni avtomatik aniqlash imkoniyati  
+- Konsol orqali oddiy va tez ishlash  
+- "exit" yozilganda dasturdan chiqish  
